@@ -108,12 +108,12 @@ graph LR
 # 🔭 Current Focus
 
 ```
-- AI / LLM Engineering
-- Data Science (Intelligence) > AI & Tokenized Intelligence
-- Tokenization Economic > Agentic Tokenized Intelligence Governance
-  - (I don't think this direction exists, but it might appear in the future.)
+- AI-driven Refactor Engineering
+- Tokenized Intelligence
+- Tokenization Economic
+  (I don't think this direction exists, but it might appear in the future.)
 
-### AI Governance & Tokenized Intelligence (illusionary)
+- AI Governance & Tokenized Intelligence (illusionary)
 - Data, identity, contribution, and access as tokenized primitives
 - AI-mediated systems for decision-making and coordination
 - Incentive design, governance, and economic mechanisms
