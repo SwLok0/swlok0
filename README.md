@@ -63,7 +63,7 @@ graph LR
 * **[Atlas](https://github.com/sinwulok/atlas)** `Assets`
     * 🏛️ **Monorepo Collections:** Metadata-driven repository governance and technical navigation center.
 
-* **[Weaver](https://github.com/sinwulok/weaver)** `Nodes`
+* **[Weaver](https://github.com/sinwulok/weaver)** `Nodes` `MCP`
     * 🕸️ **Protocol Hub:** Multi-model context protocol (MCP) server nodes and autonomous tool registry.
 
 * **[biu1-gh-rag2skill](https://github.com/sinwulok/biu1-gh-rag2skill)** `RAG`
