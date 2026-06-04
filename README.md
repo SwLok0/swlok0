@@ -60,8 +60,15 @@ graph LR
 ## 🏗️ Ongoing Projects
 > **Focused on scalable architecture, agentic workflows, and market intelligence.**
 
-* **[atlas](https://github.com/sinwulok/atlas)** `Assets`
-    * 🏛️ **Ecosystem Nexus:** Metadata-driven repository governance and technical navigation center.
+* **[Atlas](https://github.com/sinwulok/atlas)** `Assets`
+    * 🏛️ **Monorepo Collections:** Metadata-driven repository governance and technical navigation center.
+
+* **[Weaver](https://github.com/sinwulok/weaver)** `Nodes`
+    * 🕸️ **Protocol Hub:** Multi-model context protocol (MCP) server nodes and autonomous tool registry.
+
+* **[biu1-gh-rag2skill](https://github.com/sinwulok/biu1-gh-rag2skill)** `Active`
+    * 🚀 **RAG-to-Skill Core:** Transforming repository context into actionable, production-ready GitHub Agent skills.
+
 * **[biu1-ragme-github](https://github.com/sinwulok/biu1-ragme-github)** `Lab`
     * 🧪 **Agentic RAG:** Advanced experimentation on LLM-driven GitHub automation skills.
 
