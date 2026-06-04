@@ -66,10 +66,10 @@ graph LR
 * **[Weaver](https://github.com/sinwulok/weaver)** `Nodes`
     * 🕸️ **Protocol Hub:** Multi-model context protocol (MCP) server nodes and autonomous tool registry.
 
-* **[biu1-gh-rag2skill](https://github.com/sinwulok/biu1-gh-rag2skill)** `Active`
+* **[biu1-gh-rag2skill](https://github.com/sinwulok/biu1-gh-rag2skill)** `RAG`
     * 🚀 **RAG-to-Skill Core:** Transforming repository context into actionable, production-ready GitHub Agent skills.
 
-* **[biu1-ragme-github](https://github.com/sinwulok/biu1-ragme-github)** `Lab`
+* **[biu1-ragme-github](https://github.com/sinwulok/biu1-ragme-github)** `RAG`
     * 🧪 **Agentic RAG:** Advanced experimentation on LLM-driven GitHub automation skills.
 
 ---
@@ -77,8 +77,9 @@ graph LR
 ## 🎓 Profile & Credentials
 > **Verified professional milestones and atomic identity assets.**
 
-* **[sinwulok](https://github.com/sinwulok/sinwulok)** `Hub`
-    * 📝 Personal profile repository and official GitHub identity entry point.
+* **[learning](https://github.com/sinwulok/learning)** `POW`
+    * 📖 **Learning Sandbox:** A monorepo for technical exercises and experiments.
+    * 
 * **[credentials](https://github.com/sinwulok/credentials)** `POW`
     * 🎓 **Proof-of-Work:** Curated collection of certifications, credentials, and project highlights.
 
