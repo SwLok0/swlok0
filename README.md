@@ -55,9 +55,9 @@ graph LR
 ```
 ---
 <!-- Feature Table 📖📝🎓📚👨‍🏫🧪🚀 -->
-## 🩻 Featured Projects
+# 🩻 Projects
 
-### 🏗️ Ongoing Projects
+## 🏗️ Ongoing Projects
 > **Focused on scalable architecture, agentic workflows, and market intelligence.**
 
 * **[atlas](https://github.com/sinwulok/atlas)** `Assets`
@@ -67,7 +67,7 @@ graph LR
 
 ---
 
-### 🎓 Profile & Credentials
+## 🎓 Profile & Credentials
 > **Verified professional milestones and atomic identity assets.**
 
 * **[sinwulok](https://github.com/sinwulok/sinwulok)** `Hub`
@@ -79,7 +79,7 @@ graph LR
 
 ---
 <!-- Tech Stacks -->
-## 🕹️ Tech Stack
+# 🕹️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=black)
@@ -105,7 +105,7 @@ graph LR
 ---
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ -->
 <!-- standard summary format -->
-## 🔭 Current Focus
+# 🔭 Current Focus
 
 ```
 - AI / LLM Engineering
