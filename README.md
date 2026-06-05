@@ -6,7 +6,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
   </div>
-  <span>🔥 Welcome Sinwu's Profile 🔥</span>
+  <span>🔥 Welcome Sinwu LOK's Profile 🔥</span>
 </h1>
 
 <p align="center">
@@ -60,16 +60,16 @@ graph LR
 ## 🏗️ Ongoing Projects
 > **Focused on scalable architecture, agentic workflows, and market intelligence.**
 
-* **[Atlas](https://github.com/sinwulok/atlas)** `Assets`
+* **[Atlas](https://github.com/swlokzk/atlas)** `Assets`
     * 🏛️ **Monorepo Collections:** Metadata-driven repository governance and technical navigation center.
 
-* **[Weaver](https://github.com/sinwulok/weaver)** `Nodes` `MCP`
+* **[Weaver](https://github.com/swlokzk/weaver)** `Nodes` `MCP`
     * 🕸️ **Protocol Hub:** Multi-model context protocol (MCP) server nodes and autonomous tool registry.
 
-* **[biu1-gh-rag2skill](https://github.com/sinwulok/biu1-gh-rag2skill)** `RAG`
+* **[biu1-gh-rag2skill](https://github.com/swlokzk/biu1-gh-rag2skill)** `RAG`
     * 🚀 **RAG-to-Skill Core:** Transforming repository context into actionable, production-ready GitHub Agent skills.
 
-* **[biu1-ragme-github](https://github.com/sinwulok/biu1-ragme-github)** `RAG`
+* **[biu1-ragme-github](https://github.com/swlokzk/biu1-ragme-github)** `RAG`
     * 🧪 **Agentic RAG:** Advanced experimentation on LLM-driven GitHub automation skills.
 
 ---
@@ -77,13 +77,13 @@ graph LR
 ## 🎓 Profile & Credentials
 > **Verified professional milestones and atomic identity assets.**
 
-* **[learning](https://github.com/sinwulok/learning)** `POW`
+* **[learning](https://github.com/swlokzk/learning)** `POW`
     * 📖 **Learning Sandbox:** A monorepo for technical exercises and experiments.
     * 
-* **[credentials](https://github.com/sinwulok/credentials)** `POW`
+* **[credentials](https://github.com/swlokzk/credentials)** `POW`
     * 🎓 **Proof-of-Work:** Curated collection of certifications, credentials, and project highlights.
 
-> Credentials page: [sinwulok.github.io/credentials/](https://sinwulok.github.io/credentials/)
+> Credentials page: [swlokzk.github.io/credentials/](https://swlokzk.github.io/credentials/)
 
 ---
 <!-- Tech Stacks -->
@@ -105,10 +105,10 @@ graph LR
 ---
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
 <!-- Contribute Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sinwulok&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swlokzk&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- GitHub Snake Ocean -->
-![GitHub Snake Ocean](https://raw.githubusercontent.com/sinwulok/sinwulok/widgets/dist/ocean.gif)
+![GitHub Snake Ocean](https://raw.githubusercontent.com/swlokzk/swlokzk/widgets/dist/ocean.gif)
   
 ---
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ -->
