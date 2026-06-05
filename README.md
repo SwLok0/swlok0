@@ -106,7 +106,7 @@ graph LR
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
 
 <!-- Contribute Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swlokzk&hide_border=true&area=true)]
+[![Activity Graph]](https://github-readme-activity-graph.vercel.app/graph?username=swlokzk&hide_border=true&area=true)
 
 <!-- GitHub Snake Ocean -->
 ![GitHub Snake Ocean](https://raw.githubusercontent.com/swlokzk/swlokzk/widgets/dist/ocean.gif)
