@@ -10,7 +10,7 @@
 ---
 <!-- Intro 🫠🫠🫠🫠🫠🫠🫠 -->
 
-# 🦉 SINWU LOK | System Scalable Refactoring
+# 🦉 About | Scalable Refactor
 
 ```mermaid
 graph LR
