@@ -69,7 +69,7 @@ graph LR
 
 * **[learning](https://github.com/swlokzk/learning)** `POW`
     * 📖 **Learning Sandbox:** A monorepo for technical exercises and experiments.
-    * 
+    
 * **[credentials](https://github.com/swlokzk/credentials)** `POW`
     * 🎓 **Proof-of-Work:** Curated collection of certifications, credentials, and project highlights.
 
