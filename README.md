@@ -53,7 +53,7 @@ graph LR
 * **[Atlas](https://github.com/swlokzk/atlas)** `Assets`
     * 🏛️ **Monorepo Collections:** Metadata-driven repository governance and technical navigation center.
 
-* **[Weaver](https://github.com/swlokzk/weaver)** `Nodes` `MCP`
+* **[Weaver](https://github.com/swlokzk/weaver)** `MCP` `Tooling`
     * 🕸️ **Protocol Hub:** Multi-model context protocol (MCP) server nodes and autonomous tool registry.
 
 * **[biu1-gh-rag2skill](https://github.com/swlokzk/biu1-gh-rag2skill)** `RAG`
