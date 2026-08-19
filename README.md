@@ -10,7 +10,7 @@
 ---
 <!-- Intro 🫠🫠🫠🫠🫠🫠🫠 -->
 
-# 🦉 About | Scalable Refactor
+# 🦉 About | Scalable Refactoring
 
 ```mermaid
 graph LR
