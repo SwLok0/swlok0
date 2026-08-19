@@ -50,16 +50,16 @@ graph LR
 ## 🏗️ Ongoing Projects
 > **Focused on scalable architecture, agentic workflows, and market intelligence.**
 
-* **[Atlas](https://github.com/swlokzk/atlas)** `Assets`
+* **[Atlas](https://github.com/swlok0/atlas)** `Assets`
     * 🏛️ **Monorepo Collections:** Metadata-driven repository governance and technical navigation center.
 
-* **[Weaver](https://github.com/swlokzk/weaver)** `MCP` `Ongoing`
+* **[Weaver](https://github.com/swlok0/weaver)** `MCP` `Ongoing`
     * 🕸️ **Protocol Hub:** Multi-model context protocol (MCP) server nodes and autonomous tool registry.
 
-* **[biu1-ragme-github](https://github.com/swlokzk/biu1-ragme-github)** `RAG` `Demo` `Ongoing`
+* **[biu1-ragme-github](https://github.com/swlok0/biu1-ragme-github)** `RAG` `Demo` `Ongoing`
     * 🧪 **RAG:** A GitHub Repository Intelligence Assistant based on Retrieval-Augmented Generation.
  
-* **[biu1-gh-rag2skill](https://github.com/swlokzk/biu1-gh-rag2skill)** `RAG` `Demo` `Archived`
+* **[biu1-gh-rag2skill](https://github.com/swlok0/biu1-gh-rag2skill)** `RAG` `Demo` `Archived`
     * 🚀 **RAG-to-Skill Core:** Transforming repository context into actionable, production-ready Agent skills.
 
 ---
@@ -67,13 +67,13 @@ graph LR
 ## 🎓 Profile & Credentials
 > **Verified professional milestones and atomic identity assets.**
 
-* **[learning](https://github.com/swlokzk/learning)** `Poof of Work`
+* **[learning](https://github.com/swlok0/learning)** `Poof of Work`
     * 📖 **Learning Sandbox:** A monorepo for technical exercises and experiments.
 
-* **[credentials](https://github.com/swlokzk/credentials)** `Proof of Work`
+* **[credentials](https://github.com/swlok0/credentials)** `Proof of Work`
     * 🎓 **Proof-of-Work:** Curated collection of certifications, credentials, and project highlights.
 
-> Credentials page: [swlokzk.github.io/credentials/](https://swlokzk.github.io/credentials/)
+> Credentials page: [swlok0.github.io/credentials/](https://swlok0.github.io/credentials/)
 
 ---
 <!-- Tech Stacks -->
@@ -96,10 +96,10 @@ graph LR
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
 
 <!-- Contribute Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swlokzk&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swlok0&hide_border=true&area=true)
 
 <!-- GitHub Snake Ocean -->
-![GitHub Snake Ocean](https://raw.githubusercontent.com/swlokzk/swlokzk/widgets/dist/ocean.gif)
+![GitHub Snake Ocean](https://raw.githubusercontent.com/swlok0/swlok0/widgets/dist/ocean.gif)
   
 ---
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ -->
@@ -134,5 +134,5 @@ graph LR
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxlokmo)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@swlokzk)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@swlok0)
 
