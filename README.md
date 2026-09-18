@@ -58,9 +58,6 @@ graph LR
 
 * **[biu1-ragme-github](https://github.com/swlok0/biu1-ragme-github)** `RAG` `Demo` `Ongoing`
     * 🧪 **RAG:** A GitHub Repository Intelligence Assistant based on Retrieval-Augmented Generation.
- 
-* **[biu1-gh-rag2skill](https://github.com/swlok0/biu1-gh-rag2skill)** `RAG` `Demo` `Archived`
-    * 🚀 **RAG-to-Skill Core:** Transforming repository context into actionable, production-ready Agent skills.
 
 ---
 
